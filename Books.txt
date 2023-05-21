@@ -1,0 +1,4 @@
+Harry Potter and the Deadly Hollows part 1,J.K Rowling,Fantasy,56785678,1,Reserved
+Harry Potter and the Deadly Hollows part 2,J.K Rowling,Fantasy,56785689,0,notReserved
+Kurrag�mma,Petrus Dahlin,Horror,56785690,0,notReserved
+Dupajas,RafalZuzu,Glupotawchuj,123,1,notReserved
